@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/food-wheel/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/food-wheel/static/js/main.89e8ae5e.chunk.js",
-    "main.js.map": "/food-wheel/static/js/main.89e8ae5e.chunk.js.map",
-    "runtime-main.js": "/food-wheel/static/js/runtime-main.f30538ff.js",
-    "runtime-main.js.map": "/food-wheel/static/js/runtime-main.f30538ff.js.map",
-    "static/js/2.951044a0.chunk.js": "/food-wheel/static/js/2.951044a0.chunk.js",
-    "static/js/2.951044a0.chunk.js.map": "/food-wheel/static/js/2.951044a0.chunk.js.map",
-    "static/js/3.5a64b91d.chunk.js": "/food-wheel/static/js/3.5a64b91d.chunk.js",
-    "static/js/3.5a64b91d.chunk.js.map": "/food-wheel/static/js/3.5a64b91d.chunk.js.map",
+    "main.js": "/food-wheel/static/js/main.9b531f4a.chunk.js",
+    "main.js.map": "/food-wheel/static/js/main.9b531f4a.chunk.js.map",
+    "runtime-main.js": "/food-wheel/static/js/runtime-main.c8e1b460.js",
+    "runtime-main.js.map": "/food-wheel/static/js/runtime-main.c8e1b460.js.map",
+    "static/js/2.ce86e984.chunk.js": "/food-wheel/static/js/2.ce86e984.chunk.js",
+    "static/js/2.ce86e984.chunk.js.map": "/food-wheel/static/js/2.ce86e984.chunk.js.map",
+    "static/js/3.54138845.chunk.js": "/food-wheel/static/js/3.54138845.chunk.js",
+    "static/js/3.54138845.chunk.js.map": "/food-wheel/static/js/3.54138845.chunk.js.map",
     "index.html": "/food-wheel/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/food-wheel/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.951044a0.chunk.js.LICENSE.txt": "/food-wheel/static/js/2.951044a0.chunk.js.LICENSE.txt",
+    "static/js/2.ce86e984.chunk.js.LICENSE.txt": "/food-wheel/static/js/2.ce86e984.chunk.js.LICENSE.txt",
     "static/media/arnolds.2844ea70.png": "/food-wheel/static/media/arnolds.2844ea70.png",
     "static/media/kfc.54459812.png": "/food-wheel/static/media/kfc.54459812.png",
     "static/media/menya.af18054f.PNG": "/food-wheel/static/media/menya.af18054f.PNG",
@@ -19,9 +19,9 @@
     "static/media/soupspoon.6f13ffd0.png": "/food-wheel/static/media/soupspoon.6f13ffd0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f30538ff.js",
-    "static/js/2.951044a0.chunk.js",
+    "static/js/runtime-main.c8e1b460.js",
+    "static/js/2.ce86e984.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.89e8ae5e.chunk.js"
+    "static/js/main.9b531f4a.chunk.js"
   ]
 }
