@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/food-wheel/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/food-wheel/static/js/main.f4e31de6.chunk.js",
-    "main.js.map": "/food-wheel/static/js/main.f4e31de6.chunk.js.map",
+    "main.js": "/food-wheel/static/js/main.9dc8e166.chunk.js",
+    "main.js.map": "/food-wheel/static/js/main.9dc8e166.chunk.js.map",
     "runtime-main.js": "/food-wheel/static/js/runtime-main.f30538ff.js",
     "runtime-main.js.map": "/food-wheel/static/js/runtime-main.f30538ff.js.map",
     "static/js/2.5c7f1eef.chunk.js": "/food-wheel/static/js/2.5c7f1eef.chunk.js",
@@ -13,15 +13,17 @@
     "static/css/main.6dea0f05.chunk.css.map": "/food-wheel/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.5c7f1eef.chunk.js.LICENSE.txt": "/food-wheel/static/js/2.5c7f1eef.chunk.js.LICENSE.txt",
     "static/media/arnolds.2844ea70.png": "/food-wheel/static/media/arnolds.2844ea70.png",
-    "static/media/kfc.54459812.png": "/food-wheel/static/media/kfc.54459812.png",
     "static/media/menya.af18054f.PNG": "/food-wheel/static/media/menya.af18054f.PNG",
+    "static/media/pastamania.fc3c9a31.png": "/food-wheel/static/media/pastamania.fc3c9a31.png",
+    "static/media/popeyes.a7fb4a22.png": "/food-wheel/static/media/popeyes.a7fb4a22.png",
     "static/media/saizeriya.4a4f907c.jpg": "/food-wheel/static/media/saizeriya.4a4f907c.jpg",
-    "static/media/soupspoon.6f13ffd0.png": "/food-wheel/static/media/soupspoon.6f13ffd0.png"
+    "static/media/soupspoon.6f13ffd0.png": "/food-wheel/static/media/soupspoon.6f13ffd0.png",
+    "static/media/sushiexpress.f2ddff71.png": "/food-wheel/static/media/sushiexpress.f2ddff71.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f30538ff.js",
     "static/js/2.5c7f1eef.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f4e31de6.chunk.js"
+    "static/js/main.9dc8e166.chunk.js"
   ]
 }
